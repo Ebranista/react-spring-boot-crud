@@ -1,4 +1,4 @@
-import react, {Component} from 'react'
+import React, {Component} from 'react'
 
 class FooterComponent extends Component
 {
@@ -11,8 +11,6 @@ class FooterComponent extends Component
         }
 
     }
-
-
     render()
     {
         return(
